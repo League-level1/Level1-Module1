@@ -1,4 +1,4 @@
-package _02_cat;
+package _03_cat;
 /*
  *    Copyright (c) The League of Amazing Programmers 2013-2019
  *    Level 1
@@ -44,7 +44,7 @@ public class Cat {
 		else if (lives < 0)
 			System.out.println("that's overkill yo!");
 		else
-			System.out.println("DEAD CAT :(");
+			System.out.println("DEAD CAT :(. No cats were harmed");
 	}
 
 
